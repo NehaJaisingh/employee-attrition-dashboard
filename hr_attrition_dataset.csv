@@ -1,0 +1,101 @@
+EmployeeID,Age,Gender,MaritalStatus,JobRole,Department,EducationLevel,YearsAtCompany,YearsInCurrentRole,YearsSinceLastPromotion,YearsWithCurrentManager,MonthlyIncome,SalaryHikePercent,StockOptionLevel,OverTime,WorkLifeBalance,JobSatisfaction,EnvironmentSatisfaction,RelationshipSatisfaction,PerformanceRating,TrainingTimesLastYear,AbsenteeismDays,LateComingFrequency,BurnoutScore,EngagementScore,StressLevel,MentalWellbeingScore,SleepQuality,SickLeavesLastYear,HealthRiskScore,ExerciseFrequency,WorkHoursPerWeek,ChronicFatigueLevel,SalaryGrowthRate,PromotionGapYears,AvgMonthlyHours,ProjectsHandled,Attrition,TimeToLeaveMonths,AttritionReason
+1001,58,Male,Married,Manager,HR,2,6,5,5,4,95418,12.7,0,Yes,2,1,2,4,2,7,18,Low,82,46,2,61,Good,10,43,1,53,High,8.99,5,233,18,Yes,24,Work-Life Imbalance
+1002,25,Other,Married,Sales Executive,Sales,5,23,18,6,22,135996,13.1,2,No,2,1,4,3,4,10,26,Low,37,86,3,51,Poor,20,53,2,34,Medium,7.36,6,143,18,No,0,None
+1003,32,Female,Married,Developer,HR,1,20,12,8,2,93711,21.6,2,Yes,4,4,4,2,3,2,7,Medium,25,83,4,56,Poor,4,51,7,52,Low,8.67,8,211,14,No,0,None
+1004,56,Male,Married,Analyst,Operations,3,35,0,7,34,120141,1.4,2,Yes,4,2,4,1,3,8,24,Low,75,51,3,62,Average,5,39,0,42,Medium,5.3,7,198,8,Yes,18,Burnout
+1005,21,Male,Married,Developer,IT,4,4,4,1,1,63480,0,1,Yes,4,2,2,3,4,10,20,Low,63,62,2,65,Average,7,42,0,60,Low,10.44,1,274,3,No,0,None
+1006,50,Male,Married,Manager,Operations,2,36,36,30,15,147876,1.1,1,Yes,4,3,4,4,4,0,21,Medium,46,74,3,57,Poor,17,56,7,53,Medium,9.96,30,230,18,No,0,None
+1007,24,Male,Divorced,Developer,IT,2,10,6,7,7,78429,14.9,0,Yes,1,4,3,4,3,6,22,High,84,57,4,52,Good,17,81,0,49,High,6.63,7,214,17,Yes,6,Health Issues
+1008,23,Female,Single,Developer,HR,4,7,3,0,1,71645,13.2,2,No,2,3,2,3,4,2,21,Medium,11,100,1,85,Average,3,20,1,30,Low,6.89,0,126,8,No,0,None
+1009,41,Male,Married,Sales Executive,Sales,5,33,0,19,6,143469,9.0,0,No,2,3,3,2,3,3,21,Medium,43,90,1,80,Poor,0,24,5,41,Low,2.35,19,175,14,No,0,None
+1010,53,Male,Single,Manager,Operations,1,23,18,17,4,102034,10.6,2,No,1,3,2,2,1,5,24,Medium,73,44,2,70,Good,5,44,6,52,High,9.01,17,230,8,Yes,11,Better Opportunity
+1011,35,Male,Married,Analyst,IT,4,14,3,13,14,75595,11.1,1,Yes,2,4,3,3,1,4,11,Medium,30,100,5,38,Good,8,83,2,30,Low,2.44,13,121,11,No,0,None
+1012,45,Female,Married,Analyst,Operations,2,16,1,13,0,45025,8.9,1,No,1,3,3,1,3,8,9,Medium,34,96,5,47,Good,5,73,4,30,Low,12.22,13,133,20,No,0,None
+1013,59,Male,Married,Manager,Operations,4,10,10,1,4,88863,9.3,2,Yes,2,3,2,2,2,0,1,Low,36,85,1,51,Average,12,47,7,46,Medium,9.33,1,213,4,No,0,None
+1014,45,Male,Married,Sales Executive,Finance,1,35,15,7,29,111219,14.2,2,No,4,4,4,2,4,7,8,Medium,36,75,5,32,Average,9,69,3,39,Medium,11.48,7,172,5,No,0,None
+1015,31,Male,Married,Sales Executive,Finance,4,3,1,3,3,82421,6.3,0,No,4,4,1,3,3,6,27,High,39,69,5,46,Average,8,55,6,32,Medium,8.36,3,142,15,No,0,None
+1016,26,Other,Married,Analyst,Operations,5,1,0,1,0,78365,7.6,2,No,2,4,3,3,4,4,24,High,19,99,4,60,Good,11,62,3,31,Medium,2.35,1,133,7,No,0,None
+1017,19,Female,Single,Analyst,IT,5,13,7,11,4,96963,7.0,0,No,2,3,1,1,3,9,21,High,19,100,2,77,Average,3,40,4,46,Low,3.62,11,215,12,No,0,None
+1018,52,Male,Married,Sales Executive,Sales,1,26,26,15,3,68997,11.9,3,No,4,2,3,4,4,6,26,Medium,26,100,1,70,Average,18,50,6,35,Low,12.0,15,141,9,No,0,None
+1019,39,Male,Married,HR,Operations,1,33,12,5,15,92753,4.3,1,No,4,4,1,1,3,3,12,Medium,23,100,4,39,Good,17,73,5,34,Low,11.53,5,148,11,No,0,None
+1020,25,Female,Divorced,Manager,HR,2,30,8,23,18,148096,9.1,2,No,2,3,2,3,2,4,0,Medium,48,78,1,57,Poor,15,43,1,47,Medium,4.25,23,196,2,No,0,None
+1021,34,Female,Married,Developer,Finance,4,4,4,0,1,94420,15.2,2,Yes,2,1,4,2,5,6,14,High,59,83,4,43,Average,3,54,3,45,Low,5.78,0,194,6,Yes,8,Work-Life Imbalance
+1022,18,Male,Married,Analyst,Sales,1,14,4,11,4,53195,4.7,1,No,2,4,1,2,2,4,26,Low,69,71,5,39,Average,9,68,6,48,Medium,6.34,11,208,14,No,0,None
+1023,38,Female,Single,Manager,Operations,5,1,1,0,0,80593,11.3,2,Yes,4,4,1,4,3,6,10,Low,57,75,4,45,Good,17,69,0,43,Low,8.97,0,194,17,No,0,None
+1024,18,Female,Married,Analyst,IT,2,33,23,31,28,106634,6.6,1,No,4,4,1,1,5,3,22,Low,11,90,1,75,Poor,3,29,2,30,Medium,8.06,31,126,16,No,0,None
+1025,33,Male,Single,Manager,Operations,5,8,1,4,6,101866,17.4,2,No,3,3,4,2,4,8,15,Low,12,89,4,66,Good,7,48,6,41,Low,14.88,4,175,13,No,0,None
+1026,42,Other,Married,Manager,Finance,1,8,8,5,1,87368,6.2,3,Yes,2,4,2,1,4,4,10,Medium,60,72,3,67,Average,10,37,7,51,Low,7.22,5,203,8,No,0,None
+1027,23,Male,Single,Developer,Finance,2,19,0,1,10,96573,6.0,2,No,2,4,2,2,2,1,19,High,36,76,5,46,Poor,8,83,0,47,Low,5.34,1,198,12,No,0,None
+1028,55,Male,Divorced,HR,Finance,3,12,6,7,1,75569,16.5,2,No,3,1,4,3,1,9,27,Medium,29,82,5,39,Good,7,65,5,41,Low,10.55,7,176,5,No,0,None
+1029,58,Male,Married,Developer,Sales,4,2,2,1,2,101300,18.1,2,No,2,2,2,3,5,8,29,Low,61,88,4,56,Good,14,59,1,53,High,16.06,1,223,18,No,0,None
+1030,41,Male,Married,HR,Operations,1,29,11,21,23,78679,4.1,2,Yes,2,4,1,3,5,3,20,Low,79,40,3,53,Poor,15,49,1,63,High,12.79,21,263,18,Yes,24,Burnout
+1031,44,Female,Married,Analyst,IT,4,39,26,17,2,134152,6.7,3,No,3,1,3,3,1,6,8,Low,50,88,4,53,Average,0,63,0,41,Low,5.09,17,172,18,No,0,None
+1032,31,Female,Married,Manager,Sales,2,38,0,17,9,164641,9.5,1,Yes,1,2,1,3,2,9,10,Low,64,73,4,31,Good,16,76,1,44,Medium,8.84,17,186,17,No,0,None
+1033,37,Male,Divorced,Developer,Finance,4,27,21,3,15,125198,4.7,0,Yes,2,1,2,3,5,10,18,Medium,42,100,5,36,Average,3,63,3,34,Medium,11.56,3,150,4,No,0,None
+1034,38,Male,Married,HR,HR,4,4,0,0,0,45452,13.4,2,No,1,3,1,4,3,10,30,Medium,61,57,3,48,Average,15,58,3,44,Medium,4.96,0,195,8,No,0,None
+1035,45,Female,Divorced,Sales Executive,Operations,5,1,1,0,0,68294,18.4,2,No,2,2,4,1,2,10,0,Low,30,83,4,42,Average,18,88,1,43,High,6.44,0,188,15,No,0,None
+1036,60,Male,Married,Analyst,Sales,2,32,7,22,27,121324,14.8,3,No,3,1,2,4,5,0,0,Low,54,67,3,54,Average,13,53,2,46,Low,11.58,22,183,12,No,0,None
+1037,22,Male,Married,Analyst,IT,4,4,2,4,3,46878,6.5,3,Yes,4,1,3,2,5,7,26,Medium,39,88,1,72,Average,12,38,4,49,High,5.17,4,223,17,No,0,None
+1038,50,Male,Married,HR,HR,2,6,1,2,1,55995,12.6,0,Yes,4,4,4,3,3,2,14,Low,38,84,3,48,Poor,14,56,7,57,Low,8.9,2,228,3,No,0,None
+1039,57,Female,Married,Sales Executive,Operations,1,28,25,18,20,93736,16.3,1,No,4,1,3,1,5,10,5,Low,17,61,5,34,Average,9,62,6,33,Medium,9.97,18,145,3,No,0,None
+1040,39,Male,Married,HR,Sales,5,9,5,1,9,70724,0.5,2,No,4,2,1,3,5,6,20,Medium,38,67,5,52,Average,0,56,5,32,Low,17.16,1,138,5,No,0,None
+1041,27,Male,Married,Developer,Operations,5,33,2,21,8,143888,8.3,1,No,2,4,1,4,3,10,23,Low,33,86,4,48,Good,15,78,3,30,High,15.16,21,121,13,No,0,None
+1042,50,Female,Divorced,Manager,Operations,2,16,1,15,11,95426,9.2,0,Yes,2,3,4,2,4,1,30,High,77,42,1,63,Average,2,22,5,51,High,11.46,15,216,2,Yes,14,Burnout
+1043,36,Female,Married,Manager,Finance,4,39,0,5,1,166940,19.5,3,Yes,3,2,3,1,1,3,13,Medium,46,74,4,46,Average,7,69,2,49,Low,8.22,5,204,3,No,0,None
+1044,51,Other,Single,Sales Executive,Operations,5,32,1,24,30,148285,11.3,2,Yes,1,3,1,3,2,10,20,Low,43,70,2,76,Good,5,45,7,59,Low,7.45,24,264,15,No,0,None
+1045,20,Male,Single,Manager,IT,3,19,16,12,17,113959,10.2,1,Yes,1,3,3,1,3,6,28,Low,30,94,3,67,Average,16,62,4,54,Low,1.88,12,217,18,No,0,None
+1046,36,Male,Single,HR,Sales,4,38,27,10,28,133371,11.2,2,No,4,3,1,1,4,5,16,High,14,70,2,72,Average,4,21,1,41,Low,13.74,10,178,5,No,0,None
+1047,46,Female,Married,Developer,Operations,2,33,23,25,20,114292,6.9,0,Yes,2,4,4,1,3,4,22,Low,77,61,4,49,Average,14,75,1,57,High,0,25,241,10,Yes,11,No Growth
+1048,37,Female,Married,Manager,Sales,5,14,1,3,12,145045,16.8,0,No,3,4,2,1,1,4,12,High,26,75,4,49,Good,20,87,1,30,Low,9.87,3,141,19,No,0,None
+1049,29,Female,Single,Sales Executive,IT,1,33,9,19,10,114411,19.9,1,Yes,3,1,3,2,5,4,4,Medium,45,74,2,52,Poor,19,42,5,55,High,3.7,19,239,19,No,0,None
+1050,34,Female,Married,Analyst,Operations,1,31,18,19,30,92875,19.1,3,Yes,1,1,2,4,4,7,14,Low,54,67,3,54,Good,4,25,5,46,Low,7.82,19,205,5,Yes,19,Work-Life Imbalance
+1051,24,Male,Divorced,Sales Executive,Finance,2,10,5,9,5,63261,12.7,3,No,3,4,1,1,4,8,14,High,33,92,1,69,Good,15,48,4,30,Medium,6.23,9,140,13,No,0,None
+1052,41,Male,Single,Sales Executive,HR,3,35,18,4,24,94503,9.8,2,No,1,2,1,4,3,5,17,High,45,70,5,37,Poor,10,76,7,35,High,7.72,4,165,11,Yes,4,Better Opportunity
+1053,28,Male,Married,HR,Operations,3,32,32,31,19,111286,10.1,2,No,4,3,1,4,3,10,25,High,20,86,1,66,Average,19,46,6,47,Low,12.84,31,206,1,No,0,None
+1054,46,Male,Single,Manager,Finance,5,39,30,3,8,158887,9.2,3,No,3,2,4,3,5,5,21,Medium,26,72,3,50,Poor,17,52,4,43,Low,18.61,3,183,16,No,0,None
+1055,38,Male,Married,HR,Sales,1,36,34,24,25,117538,0,1,Yes,3,1,3,4,3,7,6,Low,16,86,3,64,Average,7,58,0,45,Medium,3.69,24,203,16,No,0,None
+1056,24,Female,Single,Sales Executive,HR,4,30,15,20,6,120458,5.9,2,No,1,2,1,2,4,2,29,High,60,69,4,54,Good,9,70,0,50,Low,8.3,20,223,18,Yes,21,Bad Management
+1057,51,Female,Divorced,Sales Executive,Finance,3,12,12,1,5,82686,14.7,2,No,1,3,3,2,2,9,27,Medium,31,90,3,68,Poor,4,57,7,37,Low,10.7,1,160,11,No,0,None
+1058,37,Female,Married,HR,Sales,2,3,0,3,2,58269,16.4,2,No,3,3,2,2,2,7,4,Low,44,77,5,54,Good,6,66,3,35,High,3.12,3,138,12,No,0,None
+1059,22,Female,Single,Sales Executive,Operations,2,36,34,9,10,103429,15.3,0,No,4,1,4,1,4,2,16,Low,12,88,3,54,Good,6,36,1,47,Low,9.03,9,225,3,No,0,None
+1060,48,Male,Married,Manager,Finance,3,24,14,12,12,161884,16.2,1,No,3,1,2,4,5,2,23,High,42,64,3,40,Average,12,50,3,40,Low,11.69,12,186,4,No,0,None
+1061,20,Female,Married,Developer,HR,2,4,0,4,0,41858,12.5,0,Yes,1,4,4,2,5,3,24,High,81,63,3,58,Good,10,62,3,48,Medium,10.11,4,205,19,Yes,20,Work-Life Imbalance
+1062,29,Female,Married,Analyst,IT,3,24,16,10,22,90624,11.4,3,Yes,4,2,2,3,2,7,29,Low,36,87,5,44,Poor,20,99,1,63,Low,4.36,10,269,9,No,0,None
+1063,42,Female,Married,Developer,HR,5,35,13,30,13,164207,6.7,0,Yes,2,1,4,2,5,3,12,High,40,74,4,33,Poor,11,58,7,35,Medium,9.53,30,151,7,Yes,7,No Growth
+1064,41,Male,Single,Manager,HR,1,16,13,9,4,95597,13.4,1,No,3,3,4,4,4,2,23,Medium,41,93,4,56,Good,1,61,0,41,High,6.67,9,177,5,No,0,None
+1065,58,Male,Married,Developer,HR,5,29,11,1,19,120330,1.1,3,No,1,1,4,1,1,8,23,Low,47,76,4,55,Poor,3,48,2,40,Low,13.55,1,161,3,No,0,None
+1066,41,Female,Married,Manager,HR,3,5,5,5,0,102192,12.7,3,Yes,1,2,1,4,4,10,25,Low,100,46,5,46,Good,18,79,7,47,Medium,17.01,5,187,6,Yes,22,No Growth
+1067,38,Male,Single,Manager,Finance,1,19,5,18,7,71336,6.0,2,No,2,1,3,1,1,6,7,High,31,98,5,26,Poor,8,90,7,32,High,8.22,18,123,13,Yes,10,No Growth
+1068,23,Female,Single,Manager,IT,1,17,4,12,4,93149,5.6,0,Yes,3,4,3,3,1,2,2,Low,31,88,4,51,Average,19,90,5,50,Medium,7.52,12,217,18,No,0,None
+1069,33,Female,Single,Analyst,HR,2,17,9,8,15,79519,12.4,2,No,4,1,3,3,2,10,15,Medium,32,88,3,66,Good,12,63,5,32,High,9.56,8,129,10,No,0,None
+1070,38,Female,Married,Analyst,Sales,2,25,10,9,23,84090,4.5,1,Yes,3,4,3,1,5,3,18,High,60,85,1,82,Average,14,28,4,51,High,6.68,9,223,5,No,0,None
+1071,58,Male,Single,Manager,Finance,4,4,3,4,3,81875,6.9,3,No,3,1,1,2,3,2,20,Medium,10,89,4,56,Average,3,53,0,44,Medium,9.65,4,174,8,No,0,None
+1072,46,Male,Married,Sales Executive,Operations,2,22,0,15,3,74493,20.8,0,Yes,2,3,3,3,4,3,16,Low,49,77,4,44,Good,3,55,0,56,Medium,3.31,15,255,8,Yes,5,Work-Life Imbalance
+1073,51,Male,Single,Sales Executive,Finance,4,14,12,6,10,96588,16.6,3,No,2,4,4,4,1,3,6,Low,37,64,5,56,Poor,10,94,3,33,High,8.82,6,127,20,No,0,None
+1074,42,Female,Married,HR,Sales,4,39,11,19,39,119099,6.0,2,Yes,3,1,2,3,2,8,12,Low,59,77,2,51,Good,5,43,2,45,Low,8.14,19,190,12,No,0,None
+1075,18,Female,Single,Analyst,Operations,5,31,26,31,26,127973,4.8,1,Yes,1,2,3,1,3,3,17,Low,68,53,4,43,Good,11,65,0,50,Low,3.69,31,200,8,Yes,7,No Growth
+1076,37,Female,Single,HR,Sales,1,28,27,3,24,89903,6.8,2,No,4,2,2,2,2,0,18,Low,26,99,3,64,Average,16,68,1,48,Medium,13.01,3,213,5,No,0,None
+1077,26,Male,Married,Manager,Finance,4,9,9,4,6,103792,11.4,0,No,3,3,4,4,3,9,0,High,33,79,4,37,Good,17,66,6,41,Low,12.15,4,174,11,No,0,None
+1078,53,Female,Married,Analyst,Sales,1,2,0,2,1,68359,11.2,1,No,1,4,2,2,3,2,27,High,41,93,3,68,Average,1,47,6,30,High,3.43,2,125,4,No,0,None
+1079,18,Male,Single,Sales Executive,HR,5,28,0,0,22,121782,12.1,3,No,4,1,2,4,1,1,3,Low,35,78,2,54,Poor,18,57,0,36,Low,6.47,0,158,14,No,0,None
+1080,57,Female,Divorced,Developer,IT,2,7,6,5,6,65753,12.5,2,No,2,3,1,3,2,8,19,Medium,44,69,1,75,Poor,12,29,1,40,Low,13.69,5,173,12,No,0,None
+1081,38,Male,Divorced,Sales Executive,Finance,3,34,11,30,4,123578,10.2,2,Yes,1,4,3,4,4,6,2,Medium,56,70,1,67,Poor,4,29,5,41,High,11.6,30,174,14,No,0,None
+1082,33,Male,Single,Analyst,IT,4,39,38,3,19,126942,3.7,1,Yes,2,1,2,4,3,8,16,Medium,63,62,2,63,Average,0,13,5,52,Low,5.02,3,220,3,No,0,None
+1083,49,Male,Married,Analyst,Operations,2,23,5,8,3,103685,5.4,0,Yes,1,1,1,2,1,7,11,Low,85,76,1,51,Average,10,39,3,38,Low,11.21,8,155,2,Yes,19,Burnout
+1084,29,Male,Married,Developer,Finance,1,29,27,9,24,110497,6.3,3,Yes,2,3,3,2,4,5,18,High,90,54,5,40,Average,7,59,5,41,Medium,3.36,9,176,10,Yes,15,Work-Life Imbalance
+1085,24,Male,Divorced,Analyst,Finance,1,9,4,1,0,76165,4.9,3,No,3,4,1,1,5,2,20,High,47,82,4,45,Poor,10,51,6,36,Low,1.79,1,154,7,No,0,None
+1086,26,Female,Married,Manager,IT,2,28,14,10,13,136254,13.2,1,No,4,3,1,1,2,10,9,High,28,83,3,65,Good,12,73,0,37,High,5.21,10,169,15,No,0,None
+1087,53,Female,Single,Analyst,IT,2,7,0,0,3,73038,16.8,2,No,1,3,1,1,1,3,28,Medium,47,72,3,73,Poor,18,90,6,43,Low,4.39,0,182,7,No,0,None
+1088,29,Male,Married,Manager,IT,5,39,39,15,18,146941,10.1,3,Yes,3,4,2,4,2,10,28,Medium,50,100,5,48,Average,11,58,7,41,High,6.73,15,166,6,No,0,None
+1089,19,Male,Single,HR,IT,4,33,22,14,10,143738,14.3,2,No,1,2,4,3,2,2,7,Medium,53,58,5,55,Good,18,94,2,35,High,7.0,14,159,10,No,0,None
+1090,29,Female,Single,Manager,Operations,2,1,1,0,1,80752,8.3,1,Yes,2,3,1,1,2,9,22,High,69,46,3,65,Average,3,47,5,48,Low,10.05,0,223,16,No,0,None
+1091,59,Male,Married,Sales Executive,Operations,3,14,10,9,13,83804,13.8,2,Yes,1,4,1,2,5,5,29,High,48,66,1,77,Average,7,18,5,54,High,7.73,9,245,11,No,0,None
+1092,46,Male,Single,Developer,Sales,3,6,5,0,0,58630,15.3,1,No,4,4,3,4,1,7,25,High,16,79,2,46,Poor,0,44,5,39,Low,9.88,0,172,3,No,0,None
+1093,53,Female,Divorced,HR,Operations,5,30,22,0,13,138425,8.9,3,Yes,1,3,2,2,4,8,23,High,43,74,3,56,Average,15,60,2,50,Low,8.12,0,221,16,No,0,None
+1094,30,Male,Single,HR,IT,4,7,4,6,7,51987,10.5,0,No,4,2,3,4,3,2,14,Low,19,93,3,50,Average,3,42,1,32,Medium,1.67,6,137,2,No,0,None
+1095,42,Female,Married,Sales Executive,Finance,5,15,15,9,2,76773,16.0,0,No,2,1,4,2,2,3,25,Low,50,76,4,53,Poor,19,97,4,34,High,13.84,9,157,18,Yes,23,Work-Life Imbalance
+1096,38,Female,Married,Developer,Operations,5,33,26,7,26,162436,15.2,0,No,1,3,3,4,3,6,20,Low,41,77,3,44,Average,12,64,0,30,Medium,13.01,7,139,9,No,0,None
+1097,41,Male,Married,HR,Sales,3,31,6,14,8,104280,17.8,2,Yes,4,1,2,4,2,6,23,Low,35,81,1,66,Poor,16,48,6,60,High,13.88,14,264,7,No,0,None
+1098,21,Male,Married,HR,HR,3,23,14,16,12,90913,8.1,0,Yes,4,4,2,4,5,8,11,Low,56,65,1,69,Poor,18,44,3,57,Medium,3.48,16,243,1,No,0,None
+1099,18,Male,Single,Manager,Operations,1,14,4,9,12,110189,7.2,2,No,4,3,4,3,2,7,9,Medium,36,73,1,100,Good,11,42,4,38,Low,9.83,9,177,9,No,0,None
+1100,34,Female,Divorced,HR,HR,2,33,15,3,25,93918,3.6,0,No,3,3,4,4,4,0,18,Medium,21,86,2,58,Average,11,30,4,48,High,1.67,3,208,5,No,0,None
