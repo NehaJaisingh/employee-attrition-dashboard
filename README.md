@@ -12,3 +12,7 @@ Interactive employee attrition dashboard that helps analyze workforce risk, pred
 - Streamlit
 - Pandas
 - Matplotlib
+
+- ## Live Demo
+
+https://employee-attrition-dashboard-fss7abp2kw3fxnqksf2ngd.streamlit.app/
